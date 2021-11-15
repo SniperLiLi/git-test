@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Location对象</title>
+</head>
+<body>
+    <input type="button" id="btn" value="刷新">
+    <input type="button" id ="goTx" value="企鹅腾讯">
+
+    <script>
+        //定义一个按钮，点击按钮，刷新当前页面
+        var btn = document.getElementById("btn");
+        //绑定单击事件
+        btn.onclick = function () {
+            // 刷新页面
+            location.reload();
+        }
+        var href = location.href;
+        alert(href);
+
+        //定义一个按钮，点击按钮，刷新当前页面
+        var btn = document.getElementById("goTx");
+        //绑定单击事件
+        btn.onclick = function () {
+
+            location.href = "http://www.qq.com";
+        }
+
+    </script>
+</body>
+</html>

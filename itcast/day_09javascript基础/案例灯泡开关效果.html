@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<img id="light" src="img/off.png">
+
+<script>
+    var light = document.getElementById("light");
+
+    var  flag = false;
+
+    light.onclick =function(){
+
+
+        if (flag) {
+            light.scr = "img/off.png";
+            flag = false;
+        } else {
+            light.scr = "img/open.png";
+            flag = true;
+        }
+
+    }
+
+
+
+</script>
+
+
+</body>
+</html>

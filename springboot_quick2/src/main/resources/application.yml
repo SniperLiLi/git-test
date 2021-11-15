@@ -1,0 +1,15 @@
+#普通数据配置
+#name: zhangsan
+
+#对象配置
+person:
+  name: xiaoli
+  addr: guanghzou
+  age: 100
+
+
+
+#行内对象配置
+#person: {name: zhangsan,age: 18,addr: beijing}
+server:
+  port: 8082

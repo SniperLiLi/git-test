@@ -14,7 +14,7 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
 
-        // hello O(∩_∩)O哈哈~
+        // hello O(∩_∩)O哈哈~哦哦
     }
 
     public void test(){

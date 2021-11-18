@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="728cd95e-9f01-41bc-b58b-861ba0977b8e" name="Default Changelist" comment="" />
+    <list default="true" id="728cd95e-9f01-41bc-b58b-861ba0977b8e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../crawler/itcast-crawler-first/itcast-crawler-first.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/itcast-crawler-first/src/main/java/cn/itcast/crawler/test/CrawlerFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/itcast-crawler-first/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../git/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../git/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../git/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../git/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../git/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../git/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../git/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../git/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../git/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../git/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../git/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../git/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itcast/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../itcast/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +33,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,6 +44,7 @@
     </option>
   </component>
   <component name="ProjectId" id="20j6QeAFGJxjiezPvHSCBFqAiT1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -100,10 +121,22 @@
       <workItem from="1636549928367" duration="1984000" />
       <workItem from="1636551938636" duration="2776000" />
       <workItem from="1636602493557" duration="1774000" />
+      <workItem from="1637226864038" duration="22000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

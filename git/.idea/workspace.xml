@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4088b85-450d-4039-9aad-2a2a7a64c114" name="Default Changelist" comment="" />
+    <list default="true" id="b4088b85-450d-4039-9aad-2a2a7a64c114" name="Default Changelist" comment="Learning网络爬虫" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +161,7 @@
       <workItem from="1637637735796" duration="10009000" />
       <workItem from="1637667439616" duration="2760000" />
       <workItem from="1637670680174" duration="6236000" />
-      <workItem from="1637678941409" duration="723000" />
+      <workItem from="1637678941409" duration="981000" />
     </task>
     <task id="LOCAL-00001" summary="Learning网络爬虫">
       <created>1637243737718</created>
@@ -191,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637679053455</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Learning网络爬虫">
+      <created>1637680511900</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637680511900</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

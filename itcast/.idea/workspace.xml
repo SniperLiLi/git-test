@@ -7,7 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98b68168-5e14-481f-b039-5f4c386da4db" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../git/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_mybatis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_mybatis/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdata-elasticsearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springdata-elasticsearch/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -381,6 +383,7 @@
       <workItem from="1636463704132" duration="86000" />
       <workItem from="1637154233344" duration="1403000" />
       <workItem from="1637219264189" duration="341000" />
+      <workItem from="1637469769681" duration="56000" />
     </task>
     <servers />
   </component>

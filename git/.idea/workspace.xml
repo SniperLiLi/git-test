@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4088b85-450d-4039-9aad-2a2a7a64c114" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../crawler/itcast-crawler-first/src/main/java/cn/itcast/crawler/test/HttpConfigTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler/itcast-crawler-first/src/test/java/jsoup/JsoupFirstTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_10_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crawler/itcast-crawler-first/itcast-crawler-first.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../crawler/itcast-crawler-first/itcast-crawler-first.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crawler/itcast-crawler-first/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crawler/itcast-crawler-first/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crawler/itcast-crawler-first/src/main/java/cn/itcast/crawler/test/HttpConfigTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crawler/itcast-crawler-first/src/main/java/cn/itcast/crawler/test/HttpConfigTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,7 +66,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HttpConfigTest">
+  <component name="RunManager" selected="JUnit.JsoupFirstTest.testFile">
     <configuration name="HttpClientPoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.itcast.crawler.test.HttpClientPoolTest" />
       <module name="itcast-crawler-first" />
@@ -85,52 +93,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HttpGetParamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.crawler.test.HttpGetParamTest" />
+    <configuration name="JsoupFirstTest.testFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="itcast-crawler-first" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.crawler.test.*" />
+          <option name="PATTERN" value="jsoup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="jsoup" />
+      <option name="MAIN_CLASS_NAME" value="jsoup.JsoupFirstTest" />
+      <option name="METHOD_NAME" value="testFile" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HttpPostParamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.crawler.test.HttpPostParamTest" />
+    <configuration name="JsoupFirstTest.testString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="itcast-crawler-first" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.crawler.test.*" />
+          <option name="PATTERN" value="jsoup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="jsoup" />
+      <option name="MAIN_CLASS_NAME" value="jsoup.JsoupFirstTest" />
+      <option name="METHOD_NAME" value="testString" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HttpPostTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.crawler.test.HttpPostTest" />
+    <configuration name="JsoupFirstTest.testUrl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="itcast-crawler-first" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.crawler.test.*" />
+          <option name="PATTERN" value="jsoup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="jsoup" />
+      <option name="MAIN_CLASS_NAME" value="jsoup.JsoupFirstTest" />
+      <option name="METHOD_NAME" value="testUrl" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JsoupFirstTest.testFile" />
+        <item itemvalue="JUnit.JsoupFirstTest.testString" />
+        <item itemvalue="JUnit.JsoupFirstTest.testUrl" />
         <item itemvalue="Application.HttpConfigTest" />
         <item itemvalue="Application.HttpClientPoolTest" />
-        <item itemvalue="Application.HttpPostParamTest" />
-        <item itemvalue="Application.HttpPostTest" />
-        <item itemvalue="Application.HttpGetParamTest" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +170,8 @@
       <workItem from="1637469898057" duration="611000" />
       <workItem from="1637557977506" duration="1157000" />
       <workItem from="1637637735796" duration="10009000" />
-      <workItem from="1637667439616" duration="1738000" />
+      <workItem from="1637667439616" duration="2760000" />
+      <workItem from="1637670680174" duration="6236000" />
     </task>
     <task id="LOCAL-00001" summary="Learning网络爬虫">
       <created>1637243737718</created>
@@ -169,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637661745720</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Learning网络爬虫">
+      <created>1637669542946</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637669542946</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

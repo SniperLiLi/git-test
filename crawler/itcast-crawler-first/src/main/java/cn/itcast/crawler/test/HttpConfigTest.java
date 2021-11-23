@@ -49,6 +49,7 @@ public class HttpConfigTest {
             try {
                 httpClient.close();
             } catch (IOException e) {
+
                 e.printStackTrace();
             }
         }

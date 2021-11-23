@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4088b85-450d-4039-9aad-2a2a7a64c114" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../crawler/itcast-crawler-first/src/test/java/jsoup/JsoupFirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_10_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../crawler/itcast-crawler-first/itcast-crawler-first.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../crawler/itcast-crawler-first/itcast-crawler-first.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../crawler/itcast-crawler-first/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crawler/itcast-crawler-first/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../crawler/itcast-crawler-first/src/main/java/cn/itcast/crawler/test/HttpConfigTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crawler/itcast-crawler-first/src/main/java/cn/itcast/crawler/test/HttpConfigTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b4088b85-450d-4039-9aad-2a2a7a64c114" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,6 +161,7 @@
       <workItem from="1637637735796" duration="10009000" />
       <workItem from="1637667439616" duration="2760000" />
       <workItem from="1637670680174" duration="6236000" />
+      <workItem from="1637678941409" duration="723000" />
     </task>
     <task id="LOCAL-00001" summary="Learning网络爬虫">
       <created>1637243737718</created>
@@ -194,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637669542946</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Learning网络爬虫">
+      <created>1637679053455</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637679053455</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

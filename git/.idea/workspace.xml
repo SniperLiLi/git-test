@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4088b85-450d-4039-9aad-2a2a7a64c114" name="Default Changelist" comment="Learning网络爬虫">
-      <change afterPath="$PROJECT_DIR$/../crawler/itcast-crawler-first/src/main/java/cn/itcast/crawler/test/HttpClientPoolTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../crawler/itcast-crawler-first/src/main/java/cn/itcast/crawler/test/HttpGetParamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../crawler/itcast-crawler-first/src/main/java/cn/itcast/crawler/test/HttpPostParamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../crawler/itcast-crawler-first/src/main/java/cn/itcast/crawler/test/HttpPostTest.java" afterDir="false" />
+    <list default="true" id="b4088b85-450d-4039-9aad-2a2a7a64c114" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../crawler/itcast-crawler-first/src/main/java/cn/itcast/crawler/test/HttpConfigTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../itcast/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../itcast/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot_mybatis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_mybatis/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springdata-elasticsearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springdata-elasticsearch/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HttpClientPoolTest">
+  <component name="RunManager" selected="Application.HttpConfigTest">
     <configuration name="HttpClientPoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.itcast.crawler.test.HttpClientPoolTest" />
       <module name="itcast-crawler-first" />
@@ -78,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HttpGetParamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.crawler.test.HttpGetParamTest" />
+    <configuration name="HttpConfigTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.crawler.test.HttpConfigTest" />
       <module name="itcast-crawler-first" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HttpGetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.crawler.test.HttpGetTest" />
+    <configuration name="HttpGetParamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.crawler.test.HttpGetParamTest" />
       <module name="itcast-crawler-first" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HttpConfigTest" />
         <item itemvalue="Application.HttpClientPoolTest" />
         <item itemvalue="Application.HttpPostParamTest" />
         <item itemvalue="Application.HttpPostTest" />
         <item itemvalue="Application.HttpGetParamTest" />
-        <item itemvalue="Application.HttpGetTest" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +152,8 @@
       <workItem from="1637469827703" duration="58000" />
       <workItem from="1637469898057" duration="611000" />
       <workItem from="1637557977506" duration="1157000" />
-      <workItem from="1637637735796" duration="9828000" />
+      <workItem from="1637637735796" duration="10009000" />
+      <workItem from="1637667439616" duration="1738000" />
     </task>
     <task id="LOCAL-00001" summary="Learning网络爬虫">
       <created>1637243737718</created>
@@ -167,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637243737718</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Learning网络爬虫">
+      <created>1637661745720</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637661745720</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
